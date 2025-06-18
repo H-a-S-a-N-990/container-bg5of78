@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "H-a-S-a-N-990",
+  "repo": "container-bg5of78",
+  "name": "H-a-S-a-N-990",
+  "email": "138579037+H-a-S-a-N-990@users.noreply.github.com",
+}
